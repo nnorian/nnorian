@@ -1,4 +1,4 @@
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nnorian&bg_color=101010&color=5cb85c&line=5cb85c&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 <!--
 ## Hi there 👋
