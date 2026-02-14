@@ -1,7 +1,7 @@
 <h3>GitHub Stats</h3>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mnnorian&theme=dark&hide_border=true&background=101010&ring=5cb85c&fire=5cb85c&currStreakLabel=5cb85c&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nnorian&theme=dark&hide_border=true&background=101010&ring=5cb85c&fire=5cb85c&currStreakLabel=5cb85c&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nnorian&bg_color=101010&color=5cb85c&line=5cb85c&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
