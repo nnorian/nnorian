@@ -5,7 +5,7 @@
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nnorian&bg_color=101010&color=5cb85c&line=5cb85c&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-
+ :3
 <!--
 ## Hi there 👋
 **nnorian/nnorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
